@@ -1,0 +1,24 @@
+{
+  "name": "cricket-crud-app",
+  "version": "1.0.0",
+  "description": "A React application for managing cricket player information with CRUD functionality.",
+  "main": "src/main.jsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "react-toastify": "^8.0.0",
+    "bootstrap": "^5.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.0"
+  },
+  "homepage": ".",
+  "license": "MIT"
+}
